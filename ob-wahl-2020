@@ -1,0 +1,271 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "_comment": "1 genehmigt",
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#46962b",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "popup-text": "OB Wahl 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.937851,
+          50.844884
+        ]
+      }
+    },
+    {
+      "_comment": "2 genehmigt",
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#46962b",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "popup-text": "OB Wahl 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.883004,
+          50.817071
+        ]
+      }
+    },
+    {
+      "_comment": "3 genehmigt",
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#46962b",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "popup-text": "OB Wahl 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.885780,
+          50.843506
+        ]
+      }
+    },
+    {
+      "_comment": "4 genehmigt",
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#46962b",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "popup-text": "OB Wahl 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.922500,
+          50.845278
+        ]
+      }
+    },
+    {
+      "_comment": "5 genehmigt",
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#46962b",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "popup-text": "OB Wahl 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.915873,
+          50.830727
+        ]
+      }
+    },
+    {
+      "_comment": "6 genehmigt",
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#46962b",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "popup-text": "OB Wahl 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.92610,
+          50.825321
+        ]
+      }
+    },
+    {
+      "_comment": "7 genehmigt",
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#46962b",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "popup-text": "OB Wahl 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.906490,
+          50.839297
+        ]
+      }
+    },
+    {
+      "_comment": "8 genehmigt",
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#46962b",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "popup-text": "OB Wahl 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.912778,
+          50.828056
+        ]
+      }
+    },
+    {
+      "_comment": "9 genehmigt",
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#46962b",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "popup-text": "OB Wahl 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.90517,
+          50.825769
+        ]
+      }
+    },
+    {
+      "_comment": "1 abgelehnt",
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#eb3434",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "cross",
+        "popup-text": "OB Wahl 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.883004,
+          50.817071
+        ]
+      }
+    },
+    {
+      "_comment": "2 abgelehnt",
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#eb3434",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "cross",
+        "popup-text": "OB Wahl 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.957776,
+          50.813334
+        ]
+      }
+    },
+    {
+      "_comment": "3 abgelehnt",
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#eb3434",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "cross",
+        "popup-text": "OB Wahl 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.894457 ,
+          50.810692
+        ]
+      }
+    },
+    {
+      "_comment": "4 abgelehnt",
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#eb3434",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "cross",
+        "popup-text": "OB Wahl 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.871586,
+          50.832757
+        ]
+      }
+    },
+    {
+      "_comment": "5 abgelehnt",
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#eb3434",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "cross",
+        "popup-text": "OB Wahl 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.899442,
+          50.823339
+        ]
+      }
+    }
+  ]
+}
