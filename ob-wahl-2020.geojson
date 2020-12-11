@@ -1,271 +1,1243 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "_comment": "1 genehmigt",
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#46962b",
-        "fill": "#7e7e7e",
-        "stroke": "#555555",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
-        "popup-text": "OB Wahl 2020"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.937851,
-          50.844884
-        ]
-      }
-    },
-    {
-      "_comment": "2 genehmigt",
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#46962b",
-        "fill": "#7e7e7e",
-        "stroke": "#555555",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
-        "popup-text": "OB Wahl 2020"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.883004,
-          50.817071
-        ]
-      }
-    },
-    {
-      "_comment": "3 genehmigt",
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#46962b",
-        "fill": "#7e7e7e",
-        "stroke": "#555555",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
-        "popup-text": "OB Wahl 2020"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.885780,
-          50.843506
-        ]
-      }
-    },
-    {
-      "_comment": "4 genehmigt",
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#46962b",
-        "fill": "#7e7e7e",
-        "stroke": "#555555",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
-        "popup-text": "OB Wahl 2020"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.922500,
-          50.845278
-        ]
-      }
-    },
-    {
-      "_comment": "5 genehmigt",
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#46962b",
-        "fill": "#7e7e7e",
-        "stroke": "#555555",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
-        "popup-text": "OB Wahl 2020"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.915873,
-          50.830727
-        ]
-      }
-    },
-    {
-      "_comment": "6 genehmigt",
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#46962b",
-        "fill": "#7e7e7e",
-        "stroke": "#555555",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
-        "popup-text": "OB Wahl 2020"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.92610,
-          50.825321
-        ]
-      }
-    },
-    {
-      "_comment": "7 genehmigt",
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#46962b",
-        "fill": "#7e7e7e",
-        "stroke": "#555555",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
-        "popup-text": "OB Wahl 2020"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.906490,
-          50.839297
-        ]
-      }
-    },
-    {
-      "_comment": "8 genehmigt",
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#46962b",
-        "fill": "#7e7e7e",
-        "stroke": "#555555",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
-        "popup-text": "OB Wahl 2020"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.912778,
-          50.828056
-        ]
-      }
-    },
-    {
-      "_comment": "9 genehmigt",
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#46962b",
-        "fill": "#7e7e7e",
-        "stroke": "#555555",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
-        "popup-text": "OB Wahl 2020"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.90517,
-          50.825769
-        ]
-      }
-    },
-    {
-      "_comment": "1 abgelehnt",
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#eb3434",
-        "fill": "#7e7e7e",
-        "stroke": "#555555",
-        "marker-size": "medium",
-        "marker-symbol": "cross",
-        "popup-text": "OB Wahl 2020"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.883004,
-          50.817071
-        ]
-      }
-    },
-    {
-      "_comment": "2 abgelehnt",
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#eb3434",
-        "fill": "#7e7e7e",
-        "stroke": "#555555",
-        "marker-size": "medium",
-        "marker-symbol": "cross",
-        "popup-text": "OB Wahl 2020"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.957776,
-          50.813334
-        ]
-      }
-    },
-    {
-      "_comment": "3 abgelehnt",
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#eb3434",
-        "fill": "#7e7e7e",
-        "stroke": "#555555",
-        "marker-size": "medium",
-        "marker-symbol": "cross",
-        "popup-text": "OB Wahl 2020"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.894457 ,
-          50.810692
-        ]
-      }
-    },
-    {
-      "_comment": "4 abgelehnt",
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#eb3434",
-        "fill": "#7e7e7e",
-        "stroke": "#555555",
-        "marker-size": "medium",
-        "marker-symbol": "cross",
-        "popup-text": "OB Wahl 2020"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.871586,
-          50.832757
-        ]
-      }
-    },
-    {
-      "_comment": "5 abgelehnt",
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#eb3434",
-        "fill": "#7e7e7e",
-        "stroke": "#555555",
-        "marker-size": "medium",
-        "marker-symbol": "cross",
-        "popup-text": "OB Wahl 2020"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.899442,
-          50.823339
-        ]
-      }
-    }
-  ]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "_comment": "1 genehmigt",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "hospital",
+                "popup-text": "OB Wahl 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.937851,
+                    50.844884
+                ]
+            }
+        },
+        {
+            "_comment": "2 genehmigt",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "hospital",
+                "popup-text": "OB Wahl 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.883004,
+                    50.817071
+                ]
+            }
+        },
+        {
+            "_comment": "3 genehmigt",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "hospital",
+                "popup-text": "OB Wahl 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88578,
+                    50.843506
+                ]
+            }
+        },
+        {
+            "_comment": "4 genehmigt",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "hospital",
+                "popup-text": "OB Wahl 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9225,
+                    50.845278
+                ]
+            }
+        },
+        {
+            "_comment": "5 genehmigt",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "hospital",
+                "popup-text": "OB Wahl 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.915873,
+                    50.830727
+                ]
+            }
+        },
+        {
+            "_comment": "6 genehmigt",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "hospital",
+                "popup-text": "OB Wahl 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9261,
+                    50.825321
+                ]
+            }
+        },
+        {
+            "_comment": "7 genehmigt",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "hospital",
+                "popup-text": "OB Wahl 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.90649,
+                    50.839297
+                ]
+            }
+        },
+        {
+            "_comment": "8 genehmigt",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "hospital",
+                "popup-text": "OB Wahl 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.912778,
+                    50.828056
+                ]
+            }
+        },
+        {
+            "_comment": "9 genehmigt",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "hospital",
+                "popup-text": "OB Wahl 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.90517,
+                    50.825769
+                ]
+            }
+        },
+        {
+            "_comment": "1 abgelehnt",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#eb3434",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "cross",
+                "popup-text": "OB Wahl 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.883004,
+                    50.817071
+                ]
+            }
+        },
+        {
+            "_comment": "2 abgelehnt",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#eb3434",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "cross",
+                "popup-text": "OB Wahl 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.957776,
+                    50.813334
+                ]
+            }
+        },
+        {
+            "_comment": "3 abgelehnt",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#eb3434",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "cross",
+                "popup-text": "OB Wahl 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.894457,
+                    50.810692
+                ]
+            }
+        },
+        {
+            "_comment": "4 abgelehnt",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#eb3434",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "cross",
+                "popup-text": "OB Wahl 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.871586,
+                    50.832757
+                ]
+            }
+        },
+        {
+            "_comment": "5 abgelehnt",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#eb3434",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "cross",
+                "popup-text": "OB Wahl 2020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.899442,
+                    50.823339
+                ]
+            }
+        },
+        {
+            "_comment": "1 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.1, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.916944,
+                    50.830278
+                ]
+            }
+        },
+        {
+            "_comment": "2 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.2, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.919722,
+                    50.829722
+                ]
+            }
+        },
+        {
+            "_comment": "3 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.3, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.89281,
+                    50.850657
+                ]
+            }
+        },
+        {
+            "_comment": "4 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.4, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.90685,
+                    50.838902
+                ]
+            }
+        },
+        {
+            "_comment": "5 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.5, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.936229,
+                    50.807486
+                ]
+            }
+        },
+        {
+            "_comment": "6 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.6, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.93893,
+                    50.830711
+                ]
+            }
+        },
+        {
+            "_comment": "7 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.7, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.915833,
+                    50.828889
+                ]
+            }
+        },
+        {
+            "_comment": "8 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.8, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.919722,
+                    50.836389
+                ]
+            }
+        },
+        {
+            "_comment": "9 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.9, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.925833,
+                    50.845833
+                ]
+            }
+        },
+        {
+            "_comment": "10 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.10, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.93,
+                    50.846111
+                ]
+            }
+        },
+        {
+            "_comment": "11 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.11, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.923333,
+                    50.828889
+                ]
+            }
+        },
+        {
+            "_comment": "12 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.12, Möglicher Standort aus Datenbankkk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.923333,
+                    50.828889
+                ]
+            }
+        },
+        {
+            "_comment": "13 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.13, Möglicher Standort aus Datenbankkk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.917778,
+                    50.822222
+                ]
+            }
+        },
+        {
+            "_comment": "14 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.14, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.885556,
+                    50.795278
+                ]
+            }
+        },
+        {
+            "_comment": "15 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.15, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.89,
+                    50.806389
+                ]
+            }
+        },
+        {
+            "_comment": "16 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.16, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.901111,
+                    50.816667
+                ]
+            }
+        },
+        {
+            "_comment": "17 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.17, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.909444,
+                    50.79666
+                ]
+            }
+        },
+        {
+            "_comment": "18 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.18, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.897778,
+                    50.799167
+                ]
+            }
+        },
+        {
+            "_comment": "19 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.19, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.899167,
+                    50.8475
+                ]
+            }
+        },
+        {
+            "_comment": "20 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.20, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.886111,
+                    50.852222
+                ]
+            }
+        },
+        {
+            "_comment": "21 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.21, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.952222,
+                    50.831667
+                ]
+            }
+        },
+        {
+            "_comment": "22 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.22, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.925,
+                    50.832222
+                ]
+            }
+        },
+        {
+            "_comment": "23 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.23, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9425,
+                    50.821389
+                ]
+            }
+        },
+        {
+            "_comment": "24 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.24, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.926667,
+                    50.829722
+                ]
+            }
+        },
+        {
+            "_comment": "25 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.25, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.928889,
+                    50.826389
+                ]
+            }
+        },
+        {
+            "_comment": "26 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.26, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.943333,
+                    50.847222
+                ]
+            }
+        },
+        {
+            "_comment": "27 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.27, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.943333,
+                    50.847222
+                ]
+            }
+        },
+        {
+            "_comment": "28 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.28, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.916389,
+                    50.829722
+                ]
+            }
+        },
+        {
+            "_comment": "29 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.29, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.916389,
+                    50.830556
+                ]
+            }
+        },
+        {
+            "_comment": "30 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.30, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.914722,
+                    50.831944
+                ]
+            }
+        },
+        {
+            "_comment": "31 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.31, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.841286,
+                    50.816261
+                ]
+            }
+        },
+        {
+            "_comment": "32 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.32, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.90517,
+                    50.825769
+                ]
+            }
+        },
+        {
+            "_comment": "33 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.33, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9227655,
+                    50.8605152
+                ]
+            }
+        },
+        {
+            "_comment": "34 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.34, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.915556,
+                    50.834444
+                ]
+            }
+        },
+        {
+            "_comment": "35 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.35, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.918611,
+                    50.835556
+                ]
+            }
+        },
+        {
+            "_comment": "36 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.36, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.910833,
+                    50.838333
+                ]
+            }
+        },
+        {
+            "_comment": "37 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.37, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.931111,
+                    50.846389
+                ]
+            }
+        },
+        {
+            "_comment": "38 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.38, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.924722,
+                    50.835
+                ]
+            }
+        },
+        {
+            "_comment": "39 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.39, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.906667,
+                    50.837222
+                ]
+            }
+        },
+        {
+            "_comment": "40 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.40, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.920278,
+                    50.826667
+                ]
+            }
+        },
+        {
+            "_comment": "41 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.41, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.911667,
+                    50.803056
+                ]
+            }
+        },
+        {
+            "_comment": "42 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.42, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.876111,
+                    50.788611
+                ]
+            }
+        },
+        {
+            "_comment": "43 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.43, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.918889,
+                    50.825278
+                ]
+            }
+        },
+        {
+            "_comment": "44 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.44, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.910556,
+                    50.829722
+                ]
+            }
+        },
+        {
+            "_comment": "45 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.45, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9125,
+                    50.828056
+                ]
+            }
+        },
+        {
+            "_comment": "46 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.46, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.908611,
+                    50.796944
+                ]
+            }
+        },
+        {
+            "_comment": "47 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.47, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.878889,
+                    50.805556
+                ]
+            }
+        },
+        {
+            "_comment": "48 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.48, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.905,
+                    50.844722
+                ]
+            }
+        },
+        {
+            "_comment": "49 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.49, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.906111,
+                    50.843056
+                ]
+            }
+        },
+        {
+            "_comment": "50 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.50, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.925,
+                    50.832222
+                ]
+            }
+        },
+        {
+            "_comment": "51 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.51, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.925556,
+                    50.833056
+                ]
+            }
+        },
+        {
+            "_comment": "52 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.52, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9425,
+                    50.821389
+                ]
+            }
+        },
+        {
+            "_comment": "53 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.53, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.914722,
+                    50.818333
+                ]
+            }
+        },
+        {
+            "_comment": "54 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.54, Möglicher Standort aus Datenbankk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.932778,
+                    50.823333
+                ]
+            }
+        }
+    ]
 }
