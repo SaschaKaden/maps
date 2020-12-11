@@ -826,24 +826,6 @@
             }
         },
         {
-            "_comment": "32 offen",
-            "type": "Feature",
-            "properties": {
-                "marker-color": "#616161",
-                "fill": "#7e7e7e",
-                "stroke": "#555555",
-                "marker-size": "small",
-                "popup-text": "Nr.32, Möglicher Standort aus Datenbankk"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.90517,
-                    50.825769
-                ]
-            }
-        },
-        {
             "_comment": "33 offen",
             "type": "Feature",
             "properties": {
