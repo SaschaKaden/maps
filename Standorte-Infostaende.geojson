@@ -10,7 +10,7 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "campsite",
-                "popup-text": "Infostand"
+                "popup-text": "Infostand 1"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +29,7 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "campsite",
-                "popup-text": "Infostand"
+                "popup-text": "Infostand 2"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +48,7 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "campsite",
-                "popup-text": "Infostand"
+                "popup-text": "Infostand 3"
             },
             "geometry": {
                 "type": "Point",
@@ -66,8 +66,8 @@
                 "fill": "#7e7e7e",
                 "stroke": "#555555",
                 "marker-size": "medium",
-                "marker-symbol": "campsite",
-                "popup-text": "Infostand"
+                "marker-symbol": "bank",
+                "popup-text": "Infostand 4"
             },
             "geometry": {
                 "type": "Point",
@@ -85,8 +85,8 @@
                 "fill": "#7e7e7e",
                 "stroke": "#555555",
                 "marker-size": "medium",
-                "marker-symbol": "campsite",
-                "popup-text": "Infostand"
+                "marker-symbol": "embassy",
+                "popup-text": "Infostand 5"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +105,7 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "campsite",
-                "popup-text": "Infostand"
+                "popup-text": "Infostand 6"
             },
             "geometry": {
                 "type": "Point",
@@ -124,13 +124,13 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "campsite",
-                "popup-text": "Infostand"
+                "popup-text": "Infostand 7"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                12.901771921409807,
-                    50.836141588543754
+                    12.901771921409808,
+                    50.836141588543757
                 ]
             }
         },
@@ -143,12 +143,12 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "campsite",
-                "popup-text": "Infostand"
+                "popup-text": "Infostand 8"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                12.87500973905643,
+                    12.87500973905643,
                     50.84144227646169
                 ]
             }
@@ -162,13 +162,13 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "campsite",
-                "popup-text": "Infostand"
+                "popup-text": "Infostand 9"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                12.895881542025766,
-                    50.831228791043706
+                    12.895881542025766,
+                    50.831228791043709
                 ]
             }
         },
@@ -181,12 +181,12 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "campsite",
-                "popup-text": "Infostand"
+                "popup-text": "Infostand 10"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                12.92223634972398,
+                    12.92223634972398,
                     50.83410173097281
                 ]
             }
