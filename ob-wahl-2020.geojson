@@ -2435,7 +2435,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#ffe19e",
                 "ORTSTEIL": "Adelsberg",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -3069,7 +3069,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#ffe19e",
                 "ORTSTEIL": "Altchemnitz",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -3563,7 +3563,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#f5fbb5",
                 "ORTSTEIL": "Altendorf",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -3993,7 +3993,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#dff1a2",
                 "ORTSTEIL": "Bernsdorf",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -4739,7 +4739,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#ffe19e",
                 "ORTSTEIL": "Borna-Heinersdorf",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -6593,7 +6593,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#ffcc88",
                 "ORTSTEIL": "Ebersdorf",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -9847,7 +9847,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#fdb674",
                 "ORTSTEIL": "Einsiedel",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -10513,7 +10513,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#ffe19e",
                 "ORTSTEIL": "Erfenschlag",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -12471,7 +12471,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#fff5b4",
                 "ORTSTEIL": "Euba",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -12761,7 +12761,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#ffcc88",
                 "ORTSTEIL": "Furth",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -13239,7 +13239,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#ffcc88",
                 "ORTSTEIL": "Gablenz",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -15377,7 +15377,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#ffe19e",
                 "ORTSTEIL": "Gl?sa-Draisdorf",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -19479,7 +19479,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#ffcc88",
                 "ORTSTEIL": "Gr?na",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -20369,7 +20369,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#ffcc88",
                 "ORTSTEIL": "Harthau",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -20603,7 +20603,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#f89f60",
                 "ORTSTEIL": "Helbersdorf",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -21993,7 +21993,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#fff5b4",
                 "ORTSTEIL": "Hilbersdorf",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -23099,7 +23099,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#f89f60",
                 "ORTSTEIL": "Hutholz",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -23333,7 +23333,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#ffcc88",
                 "ORTSTEIL": "Kapellenberg",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -23607,7 +23607,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#fdb674",
                 "ORTSTEIL": "Kappel",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -23873,7 +23873,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#1a9641",
                 "ORTSTEIL": "Ka?berg",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -26683,7 +26683,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#fdb674",
                 "ORTSTEIL": "Klaffenbach",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -29661,7 +29661,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#ffe19e",
                 "ORTSTEIL": "Kleinolbersdorf-Altenhain",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -29831,7 +29831,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#dff1a2",
                 "ORTSTEIL": "Lutherviertel",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -30289,7 +30289,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#fdb674",
                 "ORTSTEIL": "Markersdorf",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -33751,7 +33751,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#f2864e",
                 "ORTSTEIL": "Mittelbach",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -34157,7 +34157,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#fdb674",
                 "ORTSTEIL": "Morgenleite",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -35047,7 +35047,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#fff5b4",
                 "ORTSTEIL": "Rabenstein",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -36313,7 +36313,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#fdb674",
                 "ORTSTEIL": "Reichenbrand",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -36743,7 +36743,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#ffe19e",
                 "ORTSTEIL": "Reichenhain",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -37185,7 +37185,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#fff5b4",
                 "ORTSTEIL": "Rottluff",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -38967,7 +38967,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#ffcc88",
                 "ORTSTEIL": "R?hrsdorf",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -39325,7 +39325,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#b1db80",
                 "ORTSTEIL": "Schlo?chemnitz",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -39683,7 +39683,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#fff5b4",
                 "ORTSTEIL": "Sch?nau",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -40085,7 +40085,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#ffcc88",
                 "ORTSTEIL": "Siegmar",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -40395,7 +40395,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#dff1a2",
                 "ORTSTEIL": "Sonnenberg",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -41121,7 +41121,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#f89f60",
                 "ORTSTEIL": "Stelzendorf",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -45243,7 +45243,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#f89f60",
                 "ORTSTEIL": "Wittgensdorf",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -45621,7 +45621,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#fdb674",
                 "ORTSTEIL": "Yorckgebiet",
                 "GEMEINDE": "Chemnitz, Stadt",
@@ -46027,7 +46027,7 @@
             "properties": {
                 "stroke": "#808080",
                 "stroke-opacity": 1,
-                "fill-opacity": 0.44,
+                "fill-opacity": 0.35,
                 "fill": "#99cf71",
                 "ORTSTEIL": "Zentrum",
                 "GEMEINDE": "Chemnitz, Stadt",
