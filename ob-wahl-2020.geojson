@@ -1222,6 +1222,240 @@
             }
         },
         {
+            "_comment": "55 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.55, Doris Vorschlag"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.879669,
+                    50.833706
+                ]
+            }
+        },
+        {
+            "_comment": "56 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.56, Doris Vorschlag"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88749170365921,
+                    50.81828953563813
+                ]
+            }
+        },
+        {
+            "_comment": "57 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.57, Doris Vorschlag"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88567110626676,
+                    50.81766836967178
+                ]
+            }
+        },
+        {
+            "_comment": "58 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.58, Doris Vorschlag"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.89874850348251,
+                    50.82321954773866
+                ]
+            }
+        },
+        {
+            "_comment": "59 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.59, Doris Vorschlag"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.863704,
+                    50.808701
+                ]
+            }
+        },
+        {
+            "_comment": "60 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.60, Doris Vorschlag"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.859469,
+                    50.805210
+                ]
+            }
+        },
+        {
+            "_comment": "61 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.61, Doris Vorschlag"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.850535420355218,
+                    50.82886878422476
+                ]
+            }
+        },
+        {
+            "_comment": "62 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.62, Doris Vorschlag"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.844077200309181,
+                    50.825589820702525
+                ]
+            }
+        },
+        {
+            "_comment": "63 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.63, Doris Vorschlag"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.977180,
+                    50.819772
+                ]
+            }
+        },
+        {
+            "_comment": "64 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.64, Karolas Vorschlag"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.917415,
+                    50.796352
+                ]
+            }
+        },
+        {
+            "_comment": "65 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.65, Karolas Vorschlag"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.918793,
+                    50.796243
+                ]
+            }
+        },
+        {
+            "_comment": "66 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.66, Karolas Vorschlag"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.898407,
+                    50.798801
+                ]
+            }
+        },
+        {
+            "_comment": "67 offen",
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#616161",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "small",
+                "popup-text": "Nr.67, Karolas Vorschlag"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.875898,
+                    50.782919
+                ]
+            }
+        },
+        {
             "type": "Feature",
             "geometry": {
                 "type": "Polygon",
@@ -2202,7 +2436,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#613C76",
+                "fill": "#ffe19e",
                 "ORTSTEIL": "Adelsberg",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -2836,7 +3070,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#613C76",
+                "fill": "#ffe19e",
                 "ORTSTEIL": "Altchemnitz",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -3330,7 +3564,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#713466",
+                "fill": "#f5fbb5",
                 "ORTSTEIL": "Altendorf",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -3760,7 +3994,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#79315E",
+                "fill": "#dff1a2",
                 "ORTSTEIL": "Bernsdorf",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -4506,7 +4740,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#613C76",
+                "fill": "#ffe19e",
                 "ORTSTEIL": "Borna-Heinersdorf",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -6360,7 +6594,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#59407E",
+                "fill": "#ffcc88",
                 "ORTSTEIL": "Ebersdorf",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -9614,7 +9848,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#514386",
+                "fill": "#fdb674",
                 "ORTSTEIL": "Einsiedel",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -10280,7 +10514,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#613C76",
+                "fill": "#ffe19e",
                 "ORTSTEIL": "Erfenschlag",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -12238,7 +12472,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#69386E",
+                "fill": "#fff5b4",
                 "ORTSTEIL": "Euba",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -12528,7 +12762,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#89294F",
+                "fill": "#ffcc88",
                 "ORTSTEIL": "Furth",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -13006,7 +13240,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#59407E",
+                "fill": "#ffcc88",
                 "ORTSTEIL": "Gablenz",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -15144,7 +15378,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#613C76",
+                "fill": "#ffe19e",
                 "ORTSTEIL": "Gl?sa-Draisdorf",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -19246,7 +19480,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#59407E",
+                "fill": "#ffcc88",
                 "ORTSTEIL": "Gr?na",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -20136,7 +20370,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#59407E",
+                "fill": "#ffcc88",
                 "ORTSTEIL": "Harthau",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -20370,7 +20604,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#49478D",
+                "fill": "#f89f60",
                 "ORTSTEIL": "Helbersdorf",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -21760,7 +21994,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#69386E",
+                "fill": "#fff5b4",
                 "ORTSTEIL": "Hilbersdorf",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -22866,7 +23100,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#49478D",
+                "fill": "#f89f60",
                 "ORTSTEIL": "Hutholz",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -23100,7 +23334,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#59407E",
+                "fill": "#ffcc88",
                 "ORTSTEIL": "Kapellenberg",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -23374,7 +23608,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#514386",
+                "fill": "#fdb674",
                 "ORTSTEIL": "Kappel",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -23640,7 +23874,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#B11727",
+                "fill": "#1a9641",
                 "ORTSTEIL": "Ka?berg",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -26450,7 +26684,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#514386",
+                "fill": "#fdb674",
                 "ORTSTEIL": "Klaffenbach",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -29428,7 +29662,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#613C76",
+                "fill": "#ffe19e",
                 "ORTSTEIL": "Kleinolbersdorf-Altenhain",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -29598,7 +29832,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#79315E",
+                "fill": "#dff1a2",
                 "ORTSTEIL": "Lutherviertel",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -30056,7 +30290,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#514386",
+                "fill": "#fdb674",
                 "ORTSTEIL": "Markersdorf",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -33518,7 +33752,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#414B95",
+                "fill": "#f2864e",
                 "ORTSTEIL": "Mittelbach",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -33924,7 +34158,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#514386",
+                "fill": "#fdb674",
                 "ORTSTEIL": "Morgenleite",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -34814,7 +35048,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#69386E",
+                "fill": "#fff5b4",
                 "ORTSTEIL": "Rabenstein",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -36080,7 +36314,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#514386",
+                "fill": "#fdb674",
                 "ORTSTEIL": "Reichenbrand",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -36510,7 +36744,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#613C76",
+                "fill": "#ffe19e",
                 "ORTSTEIL": "Reichenhain",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -36952,7 +37186,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#69386E",
+                "fill": "#fff5b4",
                 "ORTSTEIL": "Rottluff",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -38734,7 +38968,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#59407E",
+                "fill": "#ffcc88",
                 "ORTSTEIL": "R?hrsdorf",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -39092,7 +39326,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#89294F",
+                "fill": "#b1db80",
                 "ORTSTEIL": "Schlo?chemnitz",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -39450,7 +39684,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#69386E",
+                "fill": "#fff5b4",
                 "ORTSTEIL": "Sch?nau",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -39852,7 +40086,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#59407E",
+                "fill": "#ffcc88",
                 "ORTSTEIL": "Siegmar",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -40162,7 +40396,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#79315E",
+                "fill": "#dff1a2",
                 "ORTSTEIL": "Sonnenberg",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -40888,7 +41122,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#49478D",
+                "fill": "#f89f60",
                 "ORTSTEIL": "Stelzendorf",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -45010,7 +45244,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#49478D",
+                "fill": "#f89f60",
                 "ORTSTEIL": "Wittgensdorf",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -45388,7 +45622,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#514386",
+                "fill": "#fdb674",
                 "ORTSTEIL": "Yorckgebiet",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
@@ -45794,7 +46028,7 @@
                 "stroke": "#808080",
                 "stroke-opacity": 1,
                 "fill-opacity": 0.44,
-                "fill": "#912647",
+                "fill": "#99cf71",
                 "ORTSTEIL": "Zentrum",
                 "GEMEINDE": "Chemnitz, Stadt",
                 "KREIS": "Chemnitz, Stadt",
