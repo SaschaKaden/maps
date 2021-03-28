@@ -1,5 +1,3 @@
-
-
 class Feature:
     id = 0
     name = ""
@@ -21,5 +19,9 @@ class Feature:
         self.color = row[7]
 
     def get_dict(self):
-        values = dict({'_comment': self.id, 'type': 'Feature', 'properties': {'marker-color': self.color, 'fill': '#616161', 'stroke': '#555555', 'marker-size': self.size, 'marker-symbol': self.marker, 'popup-text': str(self.id) + ": " + self.name}, 'geometry': {'type': 'Point', 'coordinates': [self.longitude, self.latitude]}})
+        values = dict({'_comment': self.id, 'type': 'Feature',
+                       'properties': {'marker-color': self.color, 'fill': '#616161', 'stroke': '#555555',
+                                      'marker-size': self.size, 'marker-symbol': self.marker,
+                                      'popup-text': str(self.id) + ": " + self.name, 'color': self.color},
+                       'geometry': {'type': 'Point', 'coordinates': [self.longitude, self.latitude]}})
         return values

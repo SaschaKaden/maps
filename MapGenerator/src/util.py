@@ -28,7 +28,7 @@ def load_csv():
 def update_json(features):
     path = easygui.fileopenbox()
     with open(path, 'r') as file:
-        if not path.lower().endswith('.json'):
+        if not path.lower().endswith(('.json', '.geojson')):
             print('wrong file type')
             return
 
@@ -38,7 +38,7 @@ def update_json(features):
 
         path = easygui.filesavebox()
         with open(path, 'w') as output_file:
-            if not path.lower().endswith('.json'):
+            if not path.lower().endswith(('.json', '.geojson')):
                 print('wrong file type')
                 return
             json.dump(data, output_file)
