@@ -44587,19 +44587,19 @@
             "_comment": 1,
             "type": "Feature",
             "properties": {
-                "marker-color": "#46962b",
+                "marker-color": "#616161",
                 "fill": "#808080",
                 "stroke": "#808080",
-                "marker-size": "medium",
-                "marker-symbol": "hospital",
-                "popup-text": "1: genehmigt OB Wahl 2020",
-                "color": "#46962b"
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "popup-text": "1: offen",
+                "color": "#616161"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.937851,
-                    50.844884
+                    12.916944,
+                    50.830278
                 ]
             }
         },
@@ -44607,19 +44607,19 @@
             "_comment": 2,
             "type": "Feature",
             "properties": {
-                "marker-color": "#46962b",
+                "marker-color": "#616161",
                 "fill": "#808080",
                 "stroke": "#808080",
-                "marker-size": "medium",
-                "marker-symbol": "hospital",
-                "popup-text": "2: genehmigt OB Wahl 2020",
-                "color": "#46962b"
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "popup-text": "2: offen",
+                "color": "#616161"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.883004,
-                    50.817071
+                    12.919722,
+                    50.829722
                 ]
             }
         },
@@ -44627,19 +44627,19 @@
             "_comment": 3,
             "type": "Feature",
             "properties": {
-                "marker-color": "#46962b",
+                "marker-color": "#616161",
                 "fill": "#808080",
                 "stroke": "#808080",
-                "marker-size": "medium",
-                "marker-symbol": "hospital",
-                "popup-text": "3: genehmigt OB Wahl 2020",
-                "color": "#46962b"
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "popup-text": "3: offen",
+                "color": "#616161"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.88578,
-                    50.843506
+                    12.89281,
+                    50.850657
                 ]
             }
         },
@@ -44647,19 +44647,19 @@
             "_comment": 4,
             "type": "Feature",
             "properties": {
-                "marker-color": "#46962b",
+                "marker-color": "#616161",
                 "fill": "#808080",
                 "stroke": "#808080",
-                "marker-size": "medium",
-                "marker-symbol": "hospital",
-                "popup-text": "4: genehmigt OB Wahl 2020",
-                "color": "#46962b"
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "popup-text": "4: offen",
+                "color": "#616161"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.9225,
-                    50.845278
+                    12.90685,
+                    50.838902
                 ]
             }
         },
@@ -44667,19 +44667,19 @@
             "_comment": 5,
             "type": "Feature",
             "properties": {
-                "marker-color": "#46962b",
+                "marker-color": "#616161",
                 "fill": "#808080",
                 "stroke": "#808080",
-                "marker-size": "medium",
-                "marker-symbol": "hospital",
-                "popup-text": "5: genehmigt OB Wahl 2020",
-                "color": "#46962b"
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "popup-text": "5: offen",
+                "color": "#616161"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.915873,
-                    50.830727
+                    12.936229,
+                    50.807486
                 ]
             }
         },
@@ -44687,19 +44687,19 @@
             "_comment": 6,
             "type": "Feature",
             "properties": {
-                "marker-color": "#46962b",
+                "marker-color": "#616161",
                 "fill": "#808080",
                 "stroke": "#808080",
-                "marker-size": "medium",
-                "marker-symbol": "hospital",
-                "popup-text": "6: genehmigt OB Wahl 2020",
-                "color": "#46962b"
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "popup-text": "6: offen",
+                "color": "#616161"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.9261,
-                    50.825321
+                    12.93893,
+                    50.830711
                 ]
             }
         },
@@ -44707,19 +44707,19 @@
             "_comment": 7,
             "type": "Feature",
             "properties": {
-                "marker-color": "#46962b",
+                "marker-color": "#616161",
                 "fill": "#808080",
                 "stroke": "#808080",
-                "marker-size": "medium",
-                "marker-symbol": "hospital",
-                "popup-text": "7: genehmigt OB Wahl 2020",
-                "color": "#46962b"
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "popup-text": "7: offen",
+                "color": "#616161"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.90649,
-                    50.839297
+                    12.915833,
+                    50.828889
                 ]
             }
         },
@@ -44727,19 +44727,19 @@
             "_comment": 8,
             "type": "Feature",
             "properties": {
-                "marker-color": "#46962b",
+                "marker-color": "#616161",
                 "fill": "#808080",
                 "stroke": "#808080",
-                "marker-size": "medium",
-                "marker-symbol": "hospital",
-                "popup-text": "8: genehmigt OB Wahl 2020",
-                "color": "#46962b"
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "popup-text": "8: offen",
+                "color": "#616161"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.912778,
-                    50.828056
+                    12.919722,
+                    50.836389
                 ]
             }
         },
@@ -44747,19 +44747,19 @@
             "_comment": 9,
             "type": "Feature",
             "properties": {
-                "marker-color": "#46962b",
+                "marker-color": "#616161",
                 "fill": "#808080",
                 "stroke": "#808080",
-                "marker-size": "medium",
-                "marker-symbol": "hospital",
-                "popup-text": "9: genehmigt OB Wahl 2020",
-                "color": "#46962b"
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "popup-text": "9: offen",
+                "color": "#616161"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.90517,
-                    50.825769
+                    12.925833,
+                    50.845833
                 ]
             }
         },
@@ -44767,19 +44767,19 @@
             "_comment": 10,
             "type": "Feature",
             "properties": {
-                "marker-color": "#eb3434",
+                "marker-color": "#616161",
                 "fill": "#808080",
                 "stroke": "#808080",
-                "marker-size": "medium",
-                "marker-symbol": "cross",
-                "popup-text": "10: abgeleht",
-                "color": "#eb3434"
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "popup-text": "10: offen",
+                "color": "#616161"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.883004,
-                    50.817071
+                    12.93,
+                    50.846111
                 ]
             }
         },
@@ -44787,19 +44787,19 @@
             "_comment": 11,
             "type": "Feature",
             "properties": {
-                "marker-color": "#eb3434",
+                "marker-color": "#616161",
                 "fill": "#808080",
                 "stroke": "#808080",
-                "marker-size": "medium",
-                "marker-symbol": "cross",
-                "popup-text": "11: abgeleht",
-                "color": "#eb3434"
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "popup-text": "11: offen",
+                "color": "#616161"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.957776,
-                    50.813334
+                    12.923333,
+                    50.828889
                 ]
             }
         },
@@ -44807,19 +44807,19 @@
             "_comment": 12,
             "type": "Feature",
             "properties": {
-                "marker-color": "#eb3434",
+                "marker-color": "#616161",
                 "fill": "#808080",
                 "stroke": "#808080",
-                "marker-size": "medium",
-                "marker-symbol": "cross",
-                "popup-text": "12: abgeleht",
-                "color": "#eb3434"
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "popup-text": "12: offen",
+                "color": "#616161"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.894457,
-                    50.810692
+                    12.923333,
+                    50.828889
                 ]
             }
         },
@@ -44827,19 +44827,19 @@
             "_comment": 13,
             "type": "Feature",
             "properties": {
-                "marker-color": "#eb3434",
+                "marker-color": "#616161",
                 "fill": "#808080",
                 "stroke": "#808080",
-                "marker-size": "medium",
-                "marker-symbol": "cross",
-                "popup-text": "13: abgeleht",
-                "color": "#eb3434"
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "popup-text": "13: offen",
+                "color": "#616161"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.871586,
-                    50.832757
+                    12.917778,
+                    50.822222
                 ]
             }
         },
@@ -44847,19 +44847,19 @@
             "_comment": 14,
             "type": "Feature",
             "properties": {
-                "marker-color": "#eb3434",
+                "marker-color": "#616161",
                 "fill": "#808080",
                 "stroke": "#808080",
-                "marker-size": "medium",
-                "marker-symbol": "cross",
-                "popup-text": "14: abgeleht",
-                "color": "#eb3434"
+                "marker-size": "small",
+                "marker-symbol": "circle",
+                "popup-text": "14: offen",
+                "color": "#616161"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.899442,
-                    50.823339
+                    12.885556,
+                    50.795278
                 ]
             }
         },
@@ -44878,8 +44878,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.916944,
-                    50.830278
+                    12.93,
+                    50.806389
                 ]
             }
         },
@@ -44898,8 +44898,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.919722,
-                    50.829722
+                    12.901111,
+                    50.816667
                 ]
             }
         },
@@ -44918,8 +44918,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.89281,
-                    50.850657
+                    12.909444,
+                    50.79666
                 ]
             }
         },
@@ -44938,8 +44938,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.90685,
-                    50.838902
+                    12.897778,
+                    50.799167
                 ]
             }
         },
@@ -44958,8 +44958,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.936229,
-                    50.807486
+                    12.899167,
+                    50.8475
                 ]
             }
         },
@@ -44978,8 +44978,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.93893,
-                    50.830711
+                    12.886111,
+                    50.852222
                 ]
             }
         },
@@ -44998,8 +44998,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.915833,
-                    50.828889
+                    12.952222,
+                    50.831667
                 ]
             }
         },
@@ -45018,8 +45018,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.919722,
-                    50.836389
+                    12.925,
+                    50.832222
                 ]
             }
         },
@@ -45038,8 +45038,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.925833,
-                    50.845833
+                    12.9425,
+                    50.821389
                 ]
             }
         },
@@ -45058,8 +45058,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.93,
-                    50.846111
+                    12.926667,
+                    50.829722
                 ]
             }
         },
@@ -45078,8 +45078,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.923333,
-                    50.828889
+                    12.928889,
+                    50.826389
                 ]
             }
         },
@@ -45098,8 +45098,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.923333,
-                    50.828889
+                    12.943333,
+                    50.847222
                 ]
             }
         },
@@ -45118,8 +45118,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.917778,
-                    50.822222
+                    12.943333,
+                    50.847222
                 ]
             }
         },
@@ -45138,8 +45138,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.885556,
-                    50.795278
+                    12.916389,
+                    50.829722
                 ]
             }
         },
@@ -45158,8 +45158,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.93,
-                    50.806389
+                    12.916389,
+                    50.830556
                 ]
             }
         },
@@ -45178,8 +45178,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.901111,
-                    50.816667
+                    12.914722,
+                    50.831944
                 ]
             }
         },
@@ -45198,8 +45198,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.909444,
-                    50.79666
+                    12.841286,
+                    50.816261
                 ]
             }
         },
@@ -45218,8 +45218,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.897778,
-                    50.799167
+                    12.9227655,
+                    50.8605152
                 ]
             }
         },
@@ -45238,8 +45238,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.899167,
-                    50.8475
+                    12.915556,
+                    50.834444
                 ]
             }
         },
@@ -45258,8 +45258,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.886111,
-                    50.852222
+                    12.918611,
+                    50.835556
                 ]
             }
         },
@@ -45278,8 +45278,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.952222,
-                    50.831667
+                    12.910833,
+                    50.838333
                 ]
             }
         },
@@ -45298,8 +45298,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.925,
-                    50.832222
+                    12.931111,
+                    50.846389
                 ]
             }
         },
@@ -45318,8 +45318,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.9425,
-                    50.821389
+                    12.924722,
+                    50.835
                 ]
             }
         },
@@ -45338,8 +45338,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.926667,
-                    50.829722
+                    12.906667,
+                    50.837222
                 ]
             }
         },
@@ -45358,8 +45358,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.928889,
-                    50.826389
+                    12.920278,
+                    50.826667
                 ]
             }
         },
@@ -45378,8 +45378,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.943333,
-                    50.847222
+                    12.911667,
+                    50.803056
                 ]
             }
         },
@@ -45398,8 +45398,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.943333,
-                    50.847222
+                    12.876111,
+                    50.788611
                 ]
             }
         },
@@ -45418,8 +45418,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.916389,
-                    50.829722
+                    12.918889,
+                    50.825278
                 ]
             }
         },
@@ -45438,8 +45438,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.916389,
-                    50.830556
+                    12.910556,
+                    50.829722
                 ]
             }
         },
@@ -45458,8 +45458,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.914722,
-                    50.831944
+                    12.9125,
+                    50.828056
                 ]
             }
         },
@@ -45478,8 +45478,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.841286,
-                    50.816261
+                    12.908611,
+                    50.796944
                 ]
             }
         },
@@ -45498,8 +45498,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.9227655,
-                    50.8605152
+                    12.878889,
+                    50.805556
                 ]
             }
         },
@@ -45518,8 +45518,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.915556,
-                    50.834444
+                    12.905,
+                    50.844722
                 ]
             }
         },
@@ -45538,8 +45538,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.918611,
-                    50.835556
+                    12.906111,
+                    50.843056
                 ]
             }
         },
@@ -45558,8 +45558,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.910833,
-                    50.838333
+                    12.925,
+                    50.832222
                 ]
             }
         },
@@ -45578,8 +45578,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.931111,
-                    50.846389
+                    12.925556,
+                    50.833056
                 ]
             }
         },
@@ -45598,8 +45598,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.924722,
-                    50.835
+                    12.9425,
+                    50.821389
                 ]
             }
         },
@@ -45618,8 +45618,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.906667,
-                    50.837222
+                    12.914722,
+                    50.818333
                 ]
             }
         },
@@ -45638,8 +45638,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.920278,
-                    50.826667
+                    12.932778,
+                    50.823333
                 ]
             }
         },
@@ -45658,8 +45658,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.911667,
-                    50.803056
+                    12.879669,
+                    50.833706
                 ]
             }
         },
@@ -45678,8 +45678,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.876111,
-                    50.788611
+                    12.8874917036592,
+                    50.81828953563813
                 ]
             }
         },
@@ -45698,8 +45698,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.918889,
-                    50.825278
+                    12.8856711062667,
+                    50.81766836967178
                 ]
             }
         },
@@ -45718,8 +45718,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.910556,
-                    50.829722
+                    12.8987485034825,
+                    50.82321954773866
                 ]
             }
         },
@@ -45738,8 +45738,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.9125,
-                    50.828056
+                    12.863704,
+                    50.808701
                 ]
             }
         },
@@ -45758,8 +45758,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.908611,
-                    50.796944
+                    12.859469,
+                    50.80521
                 ]
             }
         },
@@ -45778,8 +45778,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.878889,
-                    50.805556
+                    12.8505354203552,
+                    50.82886878422476
                 ]
             }
         },
@@ -45798,8 +45798,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.905,
-                    50.844722
+                    12.8440772003091,
+                    50.825589820702525
                 ]
             }
         },
@@ -45818,8 +45818,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.906111,
-                    50.843056
+                    12.97718,
+                    50.819772
                 ]
             }
         },
@@ -45838,8 +45838,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.925,
-                    50.832222
+                    12.917415,
+                    50.796352
                 ]
             }
         },
@@ -45858,8 +45858,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.925556,
-                    50.833056
+                    12.918793,
+                    50.796243
                 ]
             }
         },
@@ -45878,8 +45878,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.9425,
-                    50.821389
+                    12.898407,
+                    50.798801
                 ]
             }
         },
@@ -45893,286 +45893,6 @@
                 "marker-size": "small",
                 "marker-symbol": "circle",
                 "popup-text": "66: offen",
-                "color": "#616161"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.914722,
-                    50.818333
-                ]
-            }
-        },
-        {
-            "_comment": 67,
-            "type": "Feature",
-            "properties": {
-                "marker-color": "#616161",
-                "fill": "#808080",
-                "stroke": "#808080",
-                "marker-size": "small",
-                "marker-symbol": "circle",
-                "popup-text": "67: offen",
-                "color": "#616161"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.932778,
-                    50.823333
-                ]
-            }
-        },
-        {
-            "_comment": 68,
-            "type": "Feature",
-            "properties": {
-                "marker-color": "#616161",
-                "fill": "#808080",
-                "stroke": "#808080",
-                "marker-size": "small",
-                "marker-symbol": "circle",
-                "popup-text": "68: offen",
-                "color": "#616161"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.879669,
-                    50.833706
-                ]
-            }
-        },
-        {
-            "_comment": 69,
-            "type": "Feature",
-            "properties": {
-                "marker-color": "#616161",
-                "fill": "#808080",
-                "stroke": "#808080",
-                "marker-size": "small",
-                "marker-symbol": "circle",
-                "popup-text": "69: offen",
-                "color": "#616161"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.8874917036592,
-                    50.81828953563813
-                ]
-            }
-        },
-        {
-            "_comment": 70,
-            "type": "Feature",
-            "properties": {
-                "marker-color": "#616161",
-                "fill": "#808080",
-                "stroke": "#808080",
-                "marker-size": "small",
-                "marker-symbol": "circle",
-                "popup-text": "70: offen",
-                "color": "#616161"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.8856711062667,
-                    50.81766836967178
-                ]
-            }
-        },
-        {
-            "_comment": 71,
-            "type": "Feature",
-            "properties": {
-                "marker-color": "#616161",
-                "fill": "#808080",
-                "stroke": "#808080",
-                "marker-size": "small",
-                "marker-symbol": "circle",
-                "popup-text": "71: offen",
-                "color": "#616161"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.8987485034825,
-                    50.82321954773866
-                ]
-            }
-        },
-        {
-            "_comment": 72,
-            "type": "Feature",
-            "properties": {
-                "marker-color": "#616161",
-                "fill": "#808080",
-                "stroke": "#808080",
-                "marker-size": "small",
-                "marker-symbol": "circle",
-                "popup-text": "72: offen",
-                "color": "#616161"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.863704,
-                    50.808701
-                ]
-            }
-        },
-        {
-            "_comment": 73,
-            "type": "Feature",
-            "properties": {
-                "marker-color": "#616161",
-                "fill": "#808080",
-                "stroke": "#808080",
-                "marker-size": "small",
-                "marker-symbol": "circle",
-                "popup-text": "73: offen",
-                "color": "#616161"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.859469,
-                    50.80521
-                ]
-            }
-        },
-        {
-            "_comment": 74,
-            "type": "Feature",
-            "properties": {
-                "marker-color": "#616161",
-                "fill": "#808080",
-                "stroke": "#808080",
-                "marker-size": "small",
-                "marker-symbol": "circle",
-                "popup-text": "74: offen",
-                "color": "#616161"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.8505354203552,
-                    50.82886878422476
-                ]
-            }
-        },
-        {
-            "_comment": 75,
-            "type": "Feature",
-            "properties": {
-                "marker-color": "#616161",
-                "fill": "#808080",
-                "stroke": "#808080",
-                "marker-size": "small",
-                "marker-symbol": "circle",
-                "popup-text": "75: offen",
-                "color": "#616161"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.8440772003091,
-                    50.825589820702525
-                ]
-            }
-        },
-        {
-            "_comment": 76,
-            "type": "Feature",
-            "properties": {
-                "marker-color": "#616161",
-                "fill": "#808080",
-                "stroke": "#808080",
-                "marker-size": "small",
-                "marker-symbol": "circle",
-                "popup-text": "76: offen",
-                "color": "#616161"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.97718,
-                    50.819772
-                ]
-            }
-        },
-        {
-            "_comment": 77,
-            "type": "Feature",
-            "properties": {
-                "marker-color": "#616161",
-                "fill": "#808080",
-                "stroke": "#808080",
-                "marker-size": "small",
-                "marker-symbol": "circle",
-                "popup-text": "77: offen",
-                "color": "#616161"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.917415,
-                    50.796352
-                ]
-            }
-        },
-        {
-            "_comment": 78,
-            "type": "Feature",
-            "properties": {
-                "marker-color": "#616161",
-                "fill": "#808080",
-                "stroke": "#808080",
-                "marker-size": "small",
-                "marker-symbol": "circle",
-                "popup-text": "78: offen",
-                "color": "#616161"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.918793,
-                    50.796243
-                ]
-            }
-        },
-        {
-            "_comment": 79,
-            "type": "Feature",
-            "properties": {
-                "marker-color": "#616161",
-                "fill": "#808080",
-                "stroke": "#808080",
-                "marker-size": "small",
-                "marker-symbol": "circle",
-                "popup-text": "79: offen",
-                "color": "#616161"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.898407,
-                    50.798801
-                ]
-            }
-        },
-        {
-            "_comment": 80,
-            "type": "Feature",
-            "properties": {
-                "marker-color": "#616161",
-                "fill": "#808080",
-                "stroke": "#808080",
-                "marker-size": "small",
-                "marker-symbol": "circle",
-                "popup-text": "80: offen",
                 "color": "#616161"
             },
             "geometry": {

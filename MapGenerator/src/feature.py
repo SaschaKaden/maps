@@ -20,7 +20,7 @@ class Feature:
 
     def get_dict(self):
         values = dict({'_comment': self.id, 'type': 'Feature',
-                       'properties': {'marker-color': self.color, 'fill': '#616161', 'stroke': '#555555',
+                       'properties': {'marker-color': self.color, 'fill': '#808080', 'stroke': '#808080',
                                       'marker-size': self.size, 'marker-symbol': self.marker,
                                       'popup-text': str(self.id) + ": " + self.name, 'color': self.color},
                        'geometry': {'type': 'Point', 'coordinates': [self.longitude, self.latitude]}})
