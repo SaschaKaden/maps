@@ -980,7 +980,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#ffe19e",
                 "ORTSTEIL": "Adelsberg",
@@ -1614,7 +1614,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#ffe19e",
                 "ORTSTEIL": "Altchemnitz",
@@ -2108,7 +2108,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#f5fbb5",
                 "ORTSTEIL": "Altendorf",
@@ -2538,7 +2538,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#dff1a2",
                 "ORTSTEIL": "Bernsdorf",
@@ -3284,7 +3284,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#ffe19e",
                 "ORTSTEIL": "Borna-Heinersdorf",
@@ -5138,7 +5138,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#ffcc88",
                 "ORTSTEIL": "Ebersdorf",
@@ -8392,7 +8392,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#fdb674",
                 "ORTSTEIL": "Einsiedel",
@@ -9058,7 +9058,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#ffe19e",
                 "ORTSTEIL": "Erfenschlag",
@@ -11016,7 +11016,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#fff5b4",
                 "ORTSTEIL": "Euba",
@@ -11306,7 +11306,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#ffcc88",
                 "ORTSTEIL": "Furth",
@@ -11784,7 +11784,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#ffcc88",
                 "ORTSTEIL": "Gablenz",
@@ -13922,7 +13922,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#ffe19e",
                 "ORTSTEIL": "Gl?sa-Draisdorf",
@@ -18024,7 +18024,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#ffcc88",
                 "ORTSTEIL": "Gr?na",
@@ -18914,7 +18914,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#ffcc88",
                 "ORTSTEIL": "Harthau",
@@ -19148,7 +19148,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#f89f60",
                 "ORTSTEIL": "Helbersdorf",
@@ -20538,7 +20538,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#fff5b4",
                 "ORTSTEIL": "Hilbersdorf",
@@ -21644,7 +21644,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#f89f60",
                 "ORTSTEIL": "Hutholz",
@@ -21878,7 +21878,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#ffcc88",
                 "ORTSTEIL": "Kapellenberg",
@@ -22152,7 +22152,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#fdb674",
                 "ORTSTEIL": "Kappel",
@@ -22418,7 +22418,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#1a9641",
                 "ORTSTEIL": "Ka?berg",
@@ -25228,7 +25228,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#fdb674",
                 "ORTSTEIL": "Klaffenbach",
@@ -28206,7 +28206,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#ffe19e",
                 "ORTSTEIL": "Kleinolbersdorf-Altenhain",
@@ -28376,7 +28376,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#dff1a2",
                 "ORTSTEIL": "Lutherviertel",
@@ -28834,7 +28834,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#fdb674",
                 "ORTSTEIL": "Markersdorf",
@@ -32296,7 +32296,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#f2864e",
                 "ORTSTEIL": "Mittelbach",
@@ -32702,7 +32702,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#fdb674",
                 "ORTSTEIL": "Morgenleite",
@@ -33592,7 +33592,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#fff5b4",
                 "ORTSTEIL": "Rabenstein",
@@ -34858,7 +34858,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#fdb674",
                 "ORTSTEIL": "Reichenbrand",
@@ -35288,7 +35288,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#ffe19e",
                 "ORTSTEIL": "Reichenhain",
@@ -35730,7 +35730,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#fff5b4",
                 "ORTSTEIL": "Rottluff",
@@ -37512,7 +37512,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#ffcc88",
                 "ORTSTEIL": "R?hrsdorf",
@@ -37870,7 +37870,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#b1db80",
                 "ORTSTEIL": "Schlo?chemnitz",
@@ -38228,7 +38228,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#fff5b4",
                 "ORTSTEIL": "Sch?nau",
@@ -38630,7 +38630,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#ffcc88",
                 "ORTSTEIL": "Siegmar",
@@ -38940,7 +38940,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#dff1a2",
                 "ORTSTEIL": "Sonnenberg",
@@ -39666,7 +39666,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#f89f60",
                 "ORTSTEIL": "Stelzendorf",
@@ -43788,7 +43788,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#f89f60",
                 "ORTSTEIL": "Wittgensdorf",
@@ -44166,7 +44166,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#fdb674",
                 "ORTSTEIL": "Yorckgebiet",
@@ -44572,7 +44572,7 @@
             },
             "properties": {
                 "stroke": "#808080",
-                "stroke-opacity": 1,
+                "stroke-opacity": 1, "pane"="tilePane"
                 "fill-opacity": 0.44,
                 "fill": "#99cf71",
                 "ORTSTEIL": "Zentrum",
