@@ -1,0 +1,565 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "_comment": 1,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "1: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.912863,
+                    50.840661
+                ]
+            }
+        },
+        {
+            "_comment": 2,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "2: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95892,
+                    50.822012
+                ]
+            }
+        },
+        {
+            "_comment": 3,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "3: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.960291,
+                    50.822087
+                ]
+            }
+        },
+        {
+            "_comment": 4,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "4: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.897686,
+                    50.814209
+                ]
+            }
+        },
+        {
+            "_comment": 5,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "5: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.876288,
+                    50.820997
+                ]
+            }
+        },
+        {
+            "_comment": 6,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "6: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.876157,
+                    50.821292
+                ]
+            }
+        },
+        {
+            "_comment": 7,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "7: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.938804,
+                    50.839906
+                ]
+            }
+        },
+        {
+            "_comment": 8,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "8: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.937898,
+                    50.845417
+                ]
+            }
+        },
+        {
+            "_comment": 9,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "9: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.917951,
+                    50.834741
+                ]
+            }
+        },
+        {
+            "_comment": 10,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "10: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91845,
+                    50.833022
+                ]
+            }
+        },
+        {
+            "_comment": 11,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "11: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.919236,
+                    50.833945
+                ]
+            }
+        },
+        {
+            "_comment": 12,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "12: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.921513,
+                    50.83322
+                ]
+            }
+        },
+        {
+            "_comment": 13,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "13: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.922669,
+                    50.83375
+                ]
+            }
+        },
+        {
+            "_comment": 14,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "14: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.922178,
+                    50.834014
+                ]
+            }
+        },
+        {
+            "_comment": 15,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "15: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.919005,
+                    50.832181
+                ]
+            }
+        },
+        {
+            "_comment": 16,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "16: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.923595,
+                    50.835079
+                ]
+            }
+        },
+        {
+            "_comment": 17,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "17: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.902423,
+                    50.829666
+                ]
+            }
+        },
+        {
+            "_comment": 18,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "18: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87502,
+                    50.841416
+                ]
+            }
+        },
+        {
+            "_comment": 19,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "19: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.874604,
+                    50.841357
+                ]
+            }
+        },
+        {
+            "_comment": 20,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "20: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.924734,
+                    50.842547
+                ]
+            }
+        },
+        {
+            "_comment": 21,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "21: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.911301,
+                    50.847988
+                ]
+            }
+        },
+        {
+            "_comment": 22,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "22: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.909362,
+                    50.84655
+                ]
+            }
+        },
+        {
+            "_comment": 23,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "23: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.906972,
+                    50.848049
+                ]
+            }
+        },
+        {
+            "_comment": 24,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "24: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.922101,
+                    50.830801
+                ]
+            }
+        },
+        {
+            "_comment": 25,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "25: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.918895,
+                    50.833083
+                ]
+            }
+        },
+        {
+            "_comment": 26,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "26: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.929548,
+                    50.838188
+                ]
+            }
+        },
+        {
+            "_comment": 27,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "27: Idee",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.928962,
+                    50.839641
+                ]
+            }
+        },
+        {
+            "_comment": 28,
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#46962b",
+                "fill": "#808080",
+                "stroke": "#808080",
+                "marker-size": "medium",
+                "marker-symbol": "campsite",
+                "popup-text": "28: genehmigt OB Wahl 2020",
+                "color": "#46962b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.895877,
+                    50.83123
+                ]
+            }
+        }
+    ]
+}

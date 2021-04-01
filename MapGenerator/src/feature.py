@@ -1,3 +1,8 @@
+def create_feature_collection():
+    d = dict({'type': 'FeatureCollection', 'features': []})
+    return d
+
+
 class Feature:
     id = 0
     name = ""
@@ -8,15 +13,15 @@ class Feature:
     size = "medium"
     color = "#77777"
 
-    def __init__(self, row):
-        self.id = int(row[0])
-        self.name = row[1]
-        self.latitude = float(row[2])
-        self.longitude = float(row[3])
-        self.comment = row[4]
-        self.marker = row[5]
-        self.size = row[6]
-        self.color = row[7]
+    def __init__(self, id_in, name, latitude, longitude, comment, marker, size, color):
+        self.id = int(id_in)
+        self.name = name
+        self.latitude = float(latitude)
+        self.longitude = float(longitude)
+        self.comment = comment
+        self.marker = marker
+        self.size = size
+        self.color = color
 
     def get_dict(self):
         values = dict({'_comment': self.id, 'type': 'Feature',
