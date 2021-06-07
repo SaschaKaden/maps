@@ -1,10 +1,9 @@
 import sys
-import time
 from src import util
 from src import feature
 import easygui
 
-# Press the green button in the gutter to run the script.
+
 if __name__ == '__main__':
     features = util.load_csv()
     if not features:

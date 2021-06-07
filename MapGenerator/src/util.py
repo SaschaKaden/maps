@@ -1,6 +1,5 @@
 import csv
 import json
-import numpy as np
 from src.feature import Feature
 import easygui
 
@@ -29,21 +28,21 @@ def load_csv():
         for row in csv_reader:
             if line_count == 0:
                 for index, el in enumerate(row):
-                    if el == "ID":
+                    if "ID" in el:
                         id_index = index
-                    elif el == "Name (popup text)":
+                    elif "Name" in el:
                         name_index = index
-                    elif el == "Breitengrad":
+                    elif "Breitengrad" in el:
                         latitude_index = index
-                    elif el == "Längengrad":
+                    elif "Längengrad" in el:
                         longitude_index = index
-                    elif el == "Kommentar":
+                    elif "Kommentar" in el:
                         comment_index = index
-                    elif el == "Marker":
+                    elif "Marker" in el:
                         marker_index = index
-                    elif el == "Größe":
+                    elif "Größe" in el:
                         size_index = index
-                    elif el == "Farbe":
+                    elif "Farbe" in el:
                         color_index = index
             elif len(row[0]) > 0:
                 feature = Feature(row[id_index], row[name_index], row[latitude_index], row[longitude_index], row[comment_index], row[marker_index], row[size_index], row[color_index])
